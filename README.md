@@ -24,7 +24,7 @@ O jogo apresenta uma pergunta de lógica ao jogador
 ### Fim da partida:
 O jogo termina quando ocorrer uma destas situações:
 - Acabaram os blocos: vence quem tiver mais pontos.
-- Um jogador deixa a bolinha cair: ele perde sua única vida e está eliminado. O adversário vence.
+- Um jogador deixa a bolinha cair: ele perde sua única vida e muda de jogador. O adversário vence.
 
 ### <div align="center"> Faça parte do projeto! \n </div> 
 
