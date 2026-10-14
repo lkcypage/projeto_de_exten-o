@@ -1,9 +1,31 @@
-# **SEJA BEM-VINDO AO BREAK LOGICA**
-# PROJETO DE EXTENSÂO
-Repositorio projeto de extenção
+# <div align="center"> *BreakLógica* </div>
+Repositorio projeto de extensão
 
-### ENCONTRO01<https://docs.google.com/document/d/1oEW0ISAcVS3p-qzb97Nc6-32mPcTYGL1y97U2f7gAVA/edit?usp=sharing>
-### ENCONTRO02<https://docs.google.com/document/d/1oEW0ISAcVS3p-qzb97Nc6-32mPcTYGL1y97U2f7gAVA/edit?usp=sharing>
-### ENCONTRO04<https://docs.google.com/document/d/10mnD9ZkJzhjbmAndV-89au6IdOAR9dxZcD0OAz55rqU/edit?usp=sharing>
+- Encontro 01: <https://docs.google.com/document/d/1oEW0ISAcVS3p-qzb97Nc6-32mPcTYGL1y97U2f7gAVA/edit?usp=sharing>
+- Encontro 02: <https://docs.google.com/document/d/1oEW0ISAcVS3p-qzb97Nc6-32mPcTYGL1y97U2f7gAVA/edit?usp=sharing>
+- Encontro 04: <https://docs.google.com/document/d/10mnD9ZkJzhjbmAndV-89au6IdOAR9dxZcD0OAz55rqU/edit?usp=sharing>
 
-# Faça parte do projeto, jogue breaklogica online e compartilhe: <https://dev-2b.itch.io/breaklgica>
+# Regras:
+### Objetivo:
+
+Somar mais pontos que o adversário respondendo corretamente às perguntas de lógica que aparecem ao quebrar blocos.
+
+### Preparação:
+- Dois jogadores, cada um com 1 vida.
+- Os dois jogam com os mesmos blocos. Quebrar um bloco o remove para ambos.
+- O sorteio define quem é o Jogador 1, que começa.
+
+### Como funciona a vez:
+- O jogador da vez controla a raquete e lança a bolinha.
+  Ao acertar um bloco, o bloco some e a bolinha pausa.
+O jogo apresenta uma pergunta de lógica ao jogador
+- Acertou: ganha 1 ponto e continua jogando, com a bolinha retomando o movimento.
+- Errou: não ganha ponto, o bloco continua removido e a vez passa para o outro jogador. A bolinha volta para a raquete dele.
+
+### Fim da partida:
+O jogo termina quando ocorrer uma destas situações:
+- Acabaram os blocos: vence quem tiver mais pontos.
+- Um jogador deixa a bolinha cair: ele perde sua única vida e está eliminado. O adversário vence.
+
+### Faça parte do projeto! 
+jogue breaklogica online e compartilhe: <https://dev-2b.itch.io/breaklgica>
