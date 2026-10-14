@@ -13,7 +13,6 @@ Somar mais pontos que o adversário respondendo corretamente às perguntas de l�
 ### Preparação:
 - Dois jogadores, cada um com 1 vida.
 - Os dois jogam com os mesmos blocos. Quebrar um bloco o remove para ambos.
-- O sorteio define quem é o Jogador 1, que começa.
 
 ### Como funciona a vez:
 - O jogador da vez controla a raquete e lança a bolinha.
@@ -27,5 +26,5 @@ O jogo termina quando ocorrer uma destas situações:
 - Acabaram os blocos: vence quem tiver mais pontos.
 - Um jogador deixa a bolinha cair: ele perde sua única vida e está eliminado. O adversário vence.
 
-### Faça parte do projeto! 
-jogue breaklogica online e compartilhe: <https://dev-2b.itch.io/breaklgica>
+### <div align="center"> Faça parte do projeto! \n </div> 
+
