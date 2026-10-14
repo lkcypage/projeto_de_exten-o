@@ -18,13 +18,15 @@ Somar mais pontos que o adversário respondendo corretamente às perguntas de l�
 - O jogador da vez controla a raquete e lança a bolinha.
   Ao acertar um bloco, o bloco some e a bolinha pausa.
 O jogo apresenta uma pergunta de lógica ao jogador
-- Acertou: ganha 100 ponto e continua jogando, com a bolinha retomando o movimento.
-- Errou: não ganha ponto, o bloco continua e a vez passa para o outro jogador. A bolinha volta para a raquete dele.
+- Acertou: ganha 1 ponto e continua jogando, com a bolinha retomando o movimento.
+- Errou: não ganha ponto, o bloco continua removido e a vez passa para o outro jogador. A bolinha volta para a raquete dele.
 
 ### Fim da partida:
 O jogo termina quando ocorrer uma destas situações:
 - Acabaram os blocos: vence quem tiver mais pontos.
-- Um jogador deixa a bolinha cair: ele perde sua única vida e muda de jogador.
+- Um jogador deixa a bolinha cair: ele perde sua única vida e está eliminado. O adversário vence.
 
-### <div align="center"> Faça parte do projeto! \n </div> 
-
+<div align="center">
+<h1>Faça parte do projeto!</h1>
+<p1>Jogue BreakLógica e compartilhe: https://dev-2b.itch.io/breaklgica</p1>
+</div> 
