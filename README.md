@@ -14,17 +14,15 @@ Somar mais pontos que o adversário respondendo corretamente às perguntas de l�
 - Dois jogadores, cada um com 1 vida.
 - Os dois jogam com os mesmos blocos. Quebrar um bloco o remove para ambos.
 
-### Como funciona a vez:
+### Como funciona o turno:
 - O jogador da vez controla a raquete e lança a bolinha.
-  Ao acertar um bloco, o bloco some e a bolinha pausa.
-O jogo apresenta uma pergunta de lógica ao jogador
-- Acertou: ganha 1 ponto e continua jogando, com a bolinha retomando o movimento.
-- Errou: não ganha ponto, o bloco continua removido e a vez passa para o outro jogador. A bolinha volta para a raquete dele.
+  Ao acertar um bloco normal, o bloco some, se for um bloco de pergunta a bolinha pausa e você responde a pergunta.
+- Acertou: ganha 100 pontos e continua jogando sem o bloco que foi acertado, com a bolinha retomando o movimento.
+- Errou: não ganha ponto, o bloco continua e a vez passa para o outro jogador. A bolinha volta para a raquete dele.
 
 ### Fim da partida:
 O jogo termina quando ocorrer uma destas situações:
 - Acabaram os blocos: vence quem tiver mais pontos.
-- Um jogador deixa a bolinha cair: ele perde sua única vida e está eliminado. O adversário vence.
 
 <div align="center">
 <h1>Faça parte do projeto!</h1>
